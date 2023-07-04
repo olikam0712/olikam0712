@@ -3,3 +3,9 @@ html {
     color: white;
     font-family: 'Crete Round', serif;
 }
+.ctx {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
