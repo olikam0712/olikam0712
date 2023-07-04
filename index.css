@@ -2,10 +2,11 @@ html {
     background-color: rgb(59, 59, 59);
     color: white;
     font-family: 'Crete Round', serif;
+    font-size: 3rem;
 }
 .ctx {
-    position: relative;
-    left: 50%;
+    position: absolute;
     top: 50%;
+    left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
