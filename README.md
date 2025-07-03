@@ -15,6 +15,7 @@
 
  - 🔺Three.js
  - 🔒 IT- Security
+ - 📦 Next.js
  
 
 **[Website](https://olikam0712.github.io/olikam0712/)**
