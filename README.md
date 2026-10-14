@@ -1,9 +1,11 @@
 # ✅ SKILLS
 
- - 🌐 Web Design
  - 🌐 Web App Development
- - 📶 Server Development
+ - 📶 Using Linux
+ - 🗃️ Docker
  - 🤖 Discord Bot Development
+ - 🎮 Minecraft Plugin Development
+ - 🖥️ Neovim
 
 # 📄 LANGUAGES
 
@@ -13,10 +15,10 @@
 
 # 📚 LEARNING
 
- - 🔺Three.js
  - 🔒 IT- Security
- - 📦 Next.js
+ - ⏩ Go
+ - 💻 Proxmox
  
 
-**[Website](https://olikam0712.github.io/olikam0712/)**
+**[Website](https://olikam0712.github.io/olikam0712/)** (Not in use yet)
 
